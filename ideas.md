@@ -1,0 +1,48 @@
+# Waku - Idea Board
+
+- Chat app : P2P messaging app that uses wallet addresses/ENS domains as user IDs and facilitates chat between users.
+- Poll app : App for users to create or participate in polls that require users to connect their wallet.
+- Customer support chat bubbles : A web widget that can be embedded in any website to facilitate messaging between a customer and a customer support agent.
+- Community chat : Chats that are gated to specific communities that own a specific NFT/Token/Onchain proof.
+- Authentication methods : New methods to authenticate a user while using a dapp. For example : connect your wallet by scanning a QR code that holds a URI on Waku.
+- Escrow system : 
+- Dispute resolution system 
+- Decentralized P2P exchange :
+- Decentralized Whistleblower platform :
+- Decentralized DocuSign :
+- Multiplayer games :
+- Privacy centric dating app :
+- Secure P2P File transfer app :
+- IoT systems :
+- Permissionless remote surveillance systems :
+- Decentralised SOS Notifications :
+- Push notifications :
+- Anonymous legal consultations :
+- Decentralized mental health therapy groups :
+- Decentralized collaborative tools :
+- Decentralized personal data monetization system :
+- Decentralized VPN service :
+- Decentralized auctions :
+- Decentralized ride hailing platform (Uber) :
+- Feedback systems :
+- Bias-less resolution systems :
+- Decentralized ‘everything’ app :
+- Decentralized wallet address ownership verification :
+- Reputation systems :
+- Censorship resistant reviews plugin :
+- Privacy preserving location tracker :
+- Interactive NFT Marketplaces :
+- Medical systems for remote diagnosis :
+- Decentralized smart grid system :
+- Decentralized autonomous vehicle coordination :
+- Decentralized CCTV video surveillance :
+- Crowd-sourced weather data network :
+- P2P Chess :
+- P2P TicTacToe :
+- Privacy focused fitness tracker :
+- Decentralized and privacy-focused hiring platform (Web3 version of BambooHR) :
+- DAO/Governance Tooling :
+- Satellite communication systems :
+- Decentralized web Walkie-Talkie :
+- Crypto ATMs :
+- Smart access cards :

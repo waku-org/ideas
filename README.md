@@ -5,6 +5,7 @@
 - Customer support chat bubbles : A web widget that can be embedded in any website to facilitate messaging between a customer and a customer support agent.
 - Community chat : Chats that are gated to specific communities that own a specific NFT/Token/Onchain proof.
 - Authentication methods : New methods to authenticate a user while using a dapp. For example : connect your wallet by scanning a QR code that holds a URI on Waku.
+- Leader Election Protocol: Leader election can viewed as a soft consensus mechanism. Implement something like [RAFT](https://raft.github.io/) as a library on top of Waku (using any SDK), so that users can easily plug it in their applications
 - Escrow system : 
 - Dispute resolution system 
 - Decentralized P2P exchange :
@@ -46,3 +47,4 @@
 - Decentralized web Walkie-Talkie :
 - Crypto ATMs :
 - Smart access cards :
+

@@ -6,6 +6,8 @@
 - Multiplayer games: Waku can be used to communicate game move off-chain, final state (e.g. winner) can then be submitted on chain for reward (e.g. NFT mint or winner takes stake).
 - IoT systems: Enable devices to communicate or report small data payload in a decentralized manner.
 - Decentralized wallet address ownership verification: Use Waku to enable communication between dApp and wallet such as signature or zeroknowledge proof exchange to prove identity.
+- Notifications centre: use an SDK (probably go-waku?) to build general Notification protocol over Waku and a mobile app allowing you to replace centralized Push Notifications provided by Apple/Google
+- API generator: build a tool to generate a Waku protocol (and code) from a provided OpenAPI specification 
 - Reputation systems:
 - Censorship resistant reviews plugin:
 - Privacy preserving location tracker:

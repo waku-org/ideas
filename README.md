@@ -12,7 +12,6 @@
 - Secure DeFi: When a user wants to perform a transaction, ensure the transaction is made to the correct counter-party address within the correct chain.
 - News over Waku: Platform where people can publish news which can be voted and commented.
 - Budget approval app: Allow a community to approve and decide the best way to handle the common funds, and make the transactions transparent to the community.
-- Property resitry app: Real-state (buildings, flats, lands) registry where buy/sell operations are tracked.
 - Leader Election Protocol: Leader election can viewed as a soft consensus mechanism. Implement something like [RAFT](https://raft.github.io/) as a library on top of Waku (using any SDK), so that users can easily plug it in their applications
 - Reputation systems:
 - Censorship resistant reviews plugin:

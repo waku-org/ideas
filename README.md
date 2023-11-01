@@ -166,5 +166,5 @@ Proper chat protocol is complex; we recommend waiting for our upcoming Chat SDK.
 
 ## Interested to contribute?
 
-Do you wish to see your idea listed above? Refer to our [contribution guide](https://github.com/waku-org/ideas/CONTRIBUTE.md)
+Do you wish to see your idea listed above? Refer to our [contribution guide](https://github.com/waku-org/ideas/blob/master/CONTRIBUTE.md)
 

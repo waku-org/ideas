@@ -163,6 +163,24 @@ NFC cards that can be used for various use cases like unlocking devices, signing
 Proper chat protocol is complex; we recommend waiting for our upcoming Chat SDK.
 </details>
 
+<details>
+<summary><b>Secure DeFi</b></summary>
+<br>
+When a user wants to perform a transaction, ensure the transaction is made to the correct counter-party address within the correct chain.
+</details>
+
+<details>
+<summary><b>News over Waku</b></summary>
+<br>
+Platform where people can publish news which can be voted and commented.
+</details>
+
+<details>
+<summary><b>Budget approval app:</b></summary>
+<br>
+Allow a community to approve and decide the best way to handle the common funds, and make the transactions transparent to the community.
+</details>
+
 
 ## Interested to contribute?
 

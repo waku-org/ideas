@@ -36,6 +36,10 @@ Waku can be used to communicate game moves off-chain, the final state (e.g., win
 <summary><b>IoT Systems</b></summary>
 <br>
 Enable devices to communicate or report small data payloads in a decentralized manner.
+This can be an interesting way for a government agency or health organization to collect data from the population to study, in a privacy preserving manner.
+For example, indoor air quality sensors could be distributed to residents across a city.
+The authentication for data push could be done using zk tech: zk credentials of a given device is added to a zk group for a postcode, when pushing data to Waku, zk proof is used so that agency can auth the data and assign it to the right area/postcode but individual indentification or IP harvesting cannot be done.
+This can also become an open data initiative: anyone can collect the data from the Waku network for study (DeSci).
 </details>
 
 <details>

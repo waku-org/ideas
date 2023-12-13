@@ -15,9 +15,10 @@ Enable polling or voting off-chain, vote results could be aggregated and submitt
 </details>
 
 <details>
-<summary><b>Marketplace (buy/sell goods or NFTs, ride-share, etc)</b></summary>
+<summary><b>Marketplace (buy/sell goods or NFTs, ride-share, llm, etc)</b></summary>
 <br>
 Send offer and negotiate off-chain. Highest bids sent over Waku could be binding and submitted to the contract by the seller.
+This could include using Waku to enable LLM marketplace where several providers compete to be the one to generate a user's request.
 </details>
 
 <details>

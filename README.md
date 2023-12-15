@@ -181,6 +181,12 @@ Platform where people can publish news which can be voted and commented.
 Allow a community to approve and decide the best way to handle the common funds, and make the transactions transparent to the community.
 </details>
 
+<details>
+<summary><b>Decentralized disaster communication</b></summary>
+<br>
+decentralized network that allows for communication in disaster-stricken areas where traditional infrastructure may be unavailable or affected. Devices can connect directly to each other, forming a resilient network.
+</details>
+
 
 ## Interested to contribute?
 

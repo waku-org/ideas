@@ -220,6 +220,11 @@ A governance platform where votes are not linked to Wallets. ZK can be used to f
 <br>
 REST APIs can log IP addresses of the data source and the receiver. Building a decentralized layer for enabling privacy preserving APIs alongside rate-limiting with RLN can be quite impactful</details>
 
+<details>
+<summary><b>Decentralized disaster communication</b></summary>
+<br>
+Decentralized network that allows for communication in disaster-stricken areas where traditional infrastructure may be unavailable or affected. Devices can connect directly to each other, forming a resilient network.
+</details>
 
 ## Interested to contribute?
 

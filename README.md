@@ -158,12 +158,6 @@ NFC cards that can be used for various use cases like unlocking devices, signing
 </details>
 
 <details>
-<summary><b>Chat App</b></summary>
-<br>
-Proper chat protocol is complex; we recommend waiting for our upcoming Chat SDK.
-</details>
-
-<details>
 <summary><b>Secure DeFi</b></summary>
 <br>
 When a user wants to perform a transaction, ensure the transaction is made to the correct counter-party address within the correct chain.
@@ -176,11 +170,45 @@ Platform where people can publish news which can be voted and commented.
 </details>
 
 <details>
-<summary><b>Budget approval app:</b></summary>
+<summary><b>Budget approval app</b></summary>
 <br>
 Allow a community to approve and decide the best way to handle the common funds, and make the transactions transparent to the community.
 </details>
 
+<details>
+<summary><b>Privacy preserving AI assistant</b></summary>
+<br>
+A privacy preserving AI assistant that does not reveal the identity of the user who sends prompts to the AI model.
+</details>
+
+<details>
+<summary><b>Federated Learning Platform</b></summary>
+<br>
+A federated learning platform leveraging Waku for communication among edge devices. Waku ensures privacy by enabling encrypted communication channels, allowing devices to collaborate on model training tasks without sharing raw data.
+</details>
+
+<details>
+<summary><b>Supply Chain Transparency Solution</b></summary>
+<br>
+A supply chain transparency solution incorporating Waku for secure communication and data sharing among stakeholders. Waku enables encrypted communication channels, allowing participants to exchange information about product origins, manufacturing processes, and logistics while maintaining data privacy and integrity.
+</details>
+
+<details>
+<summary><b>Decentralised brainstorming tool</b></summary>
+<br>
+An anonymous tool for collaborative brainstorming where users can describe their ideas without having to worry about them being judged when they share ideas.
+</details>
+
+<details>
+<summary><b>Privacy preserving confessions board</b></summary>
+<br>
+An anonymous and gamified tool for sharing confessions to other users.
+</details>
+
+<details>
+<summary><b>Privacy preserving governance platform</b></summary>
+<br>
+A governance platform where votes are not linked to Wallets. ZK can be used to find if a wallet has the voting power but the user's vote is not transparent to other users.</details>
 
 ## Interested to contribute?
 

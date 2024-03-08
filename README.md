@@ -210,6 +210,12 @@ An anonymous and gamified tool for sharing confessions to other users.
 <br>
 A governance platform where votes are not linked to Wallets. ZK can be used to find if a wallet has the voting power but the user's vote is not transparent to other users.</details>
 
+<details>
+<summary><b>Privacy preserving APIs and Data sources</b></summary>
+<br>
+REST APIs can log IP addresses of the data source and the receiver. Building a decentralized layer for enabling privacy preserving APIs alongside rate-limiting with RLN can be quite impactful</details>
+
+
 ## Interested to contribute?
 
 Do you wish to see your idea listed above? Refer to our [contribution guide](https://github.com/waku-org/ideas/blob/master/CONTRIBUTE.md)

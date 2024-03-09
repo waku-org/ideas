@@ -221,6 +221,14 @@ A governance platform where votes are not linked to Wallets. ZK can be used to f
 REST APIs can log IP addresses of the data source and the receiver. Building a decentralized layer for enabling privacy preserving APIs alongside rate-limiting with RLN can be quite impactful</details>
 
 
+<details>
+<summary><b>2FA with Waku</b></summary>
+<br>
+Build a decentralized 2FA using Waku and RLN membership sets. RLN can be used to determine membership of a user to a 2FA group and waku can be used to communicate 2FA codes generated.
+Need to give more thought as to who will generate 2FAs and how can they be secure i.e the generator should not be aware of the user of the generated code. 
+</details>
+
+
 ## Interested to contribute?
 
 Do you wish to see your idea listed above? Refer to our [contribution guide](https://github.com/waku-org/ideas/blob/master/CONTRIBUTE.md)

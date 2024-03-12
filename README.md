@@ -223,7 +223,7 @@ REST APIs can log IP addresses of the data source and the receiver. Building a d
 <details>
 <summary><b>Enhanced Stealth Address Protocol</b></summary>
 <br>
-An initial PoC for stealth addresses over waku can be found <a href="https://github.com/waku-org/nwaku/pull/2490">here</a>. Enhance for multiple elliptic curves, storage of generated keys, and maybe even a nim native implementation of the <a href="https://eips.ethereum.org/EIPS/eip-5564">Stealth Address Protocol</a>.
+An initial PoC for stealth addresses over waku can be found [here](https://github.com/waku-org/nwaku/pull/2490). Enhance for multiple elliptic curves, storage of generated keys, and maybe even a nim native implementation of the [Stealth Address Protocol](https://eips.ethereum.org/EIPS/eip-5564).
 </details>
 
 

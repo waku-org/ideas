@@ -220,6 +220,12 @@ A governance platform where votes are not linked to Wallets. ZK can be used to f
 <br>
 REST APIs can log IP addresses of the data source and the receiver. Building a decentralized layer for enabling privacy preserving APIs alongside rate-limiting with RLN can be quite impactful</details>
 
+<details>
+<summary><b>Enhanced Stealth Address Protocol</b></summary>
+<br>
+An initial PoC for stealth addresses over waku can be found <a href="https://github.com/waku-org/nwaku/pull/2490">here</a>. Enhance for multiple elliptic curves, storage of generated keys, and maybe even a nim native implementation of the <a href="https://eips.ethereum.org/EIPS/eip-5564">Stealth Address Protocol</a>.
+</details>
+
 
 ## Interested to contribute?
 
